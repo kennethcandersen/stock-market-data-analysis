@@ -6,7 +6,7 @@ Raw data was supplied to me in Excel sheets, 1 sheet per calendar year. I create
 
 In the repository you can see:
 
--The VBS file with my code and commentary\n
+-The VBS file with my code and commentary<br>
 -The Excel sheet with the raw data and the VB script executed. 
 -Screenshots of the execution, for good measure!
 
