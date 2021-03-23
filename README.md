@@ -10,4 +10,4 @@ In the repository you can see:
 -The Excel sheet with the raw data and the VB script executed.<br> 
 -Screenshots of the execution, for good measure!
 
-I invite your feedback!
+I invite your feedback! 
